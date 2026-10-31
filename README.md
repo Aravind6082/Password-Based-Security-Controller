@@ -485,7 +485,20 @@ The final implementation generated a standard-cell netlist and GDS layout. The r
 
 The narrow worst-case setup margin highlights the importance of multi-corner timing analysis and further optimization. The project provides practical experience in digital RTL design, simulation, synthesis, physical implementation, GDS generation, and static timing verification.
 
-## 20. Project Demonstration Video
+## 20. Watch the Project Demonstration
+
+[▶ Watch the ASIC Password-Based Security Controller Presentation](https://drive.google.com/file/d/11AN30ovUOXhc4GHK5VgnwguEy2Ap3YmA/view?usp=sharing)
+
+This video demonstrates my ASIC Implementation of a Password-Based Security Controller project, including:
+
+- RTL design using Verilog
+- Password-based security controller implementation
+- Testbench development and verification
+- Functional simulation and waveform analysis
+- Logic synthesis
+- ASIC physical design flow
+- Static Timing Analysis (STA)
+- Final implementation results and reports
 
 A demonstration video can follow this sequence:
 
